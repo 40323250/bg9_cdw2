@@ -151,7 +151,7 @@ cango = JSConstructor(window.Cango)
 cobj = JSConstructor(window.Cobj)
 shapedefs = window.shapeDefs
 obj2d = JSConstructor(window.Obj2D)
-cgo = cango("plotarea2")
+cgo = cango("plotarea")
 cgo.setWorldCoords(-250, -250, 500, 500) 
 
 
@@ -163,6 +163,7 @@ cgo.drawAxes(0, 240, 0, 240, {
     "xLabelInterval": 20,
     "yTickInterval": 20,
     "yLabelInterval": 20})
+
         
 #cgo.drawText("使用 Cango 繪圖程式庫!", 0, 0, {"fontSize":60, "fontWeight": 1200, "lorg":5 })
 deg = math.pi/180  
@@ -173,13 +174,14 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
                      A 40, 40, 0, 0, 1, 6.8397, -18.511 \
                      A 7, 7, 0, 1, 0, -6.8397, -18.511 \
                      A 40, 40, 0, 0, 1, -6.8397, -1.4894 z"
-    cgoChamber = window.svgToCgoSVG(chamber, 0, 0)
+    cgoChamber = window.svgToCgoSVG(chamber, 140, 140)
     cmbr = cobj(cgoChamber, "SHAPE", {
             "fillColor": color,
             "border": border,
             "strokeColor": "tan",
             "lineWidth": linewidth })
 
+    
     basic1 = cmbr.dup()
     basic1.translate(-140, -140)
     basic1.rotate(14.48)
@@ -239,9 +241,7 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
     cmbr.appendPath(basic9)
     cmbr.appendPath(basic10)
     cmbr.appendPath(basic11)
-    cmbr.appendPath(basic12)    
- 
-   
+    cmbr.appendPath(basic12)
     
     # hole 為原點位置
     #hole = cobj(shapedefs.circle(4), "PATH") 
@@ -252,6 +252,5 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
     
 O(0, 0, 0, 0, 0, "green", True, 4)
 </script>
-
 '''
     return outstring
