@@ -159,7 +159,7 @@ brython(1);
 }
 </script>
 
-<canvas id="plotarea2" width="800" height="800"></canvas>
+<canvas id="plotarea" width="800" height="800"></canvas>
 
 <script type="text/python">
 from javascript import JSConstructor
