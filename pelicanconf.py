@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'kmol'
 SITENAME = 'CDW2 網頁 (虎尾科大MDE)'
-SITEURL = 'http://2015fallhw.github.io/cdw2/'
+SITEURL = 'http://40323250.github.io/bg9_cdw2/'
 
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
