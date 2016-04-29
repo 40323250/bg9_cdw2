@@ -27,15 +27,29 @@
 &lt;img src="./../files/bg9/40323250/print_1.png"&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-Example 1 :
+&lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FFFF00;"&gt;Example 1 :&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;img src="./../files/bg9/40323250/word.png"&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-Example 2 :
+&lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FFFF00;"&gt;Example 2 :&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;img src="./../files/bg9/40323250/paint_2.png"&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;p&gt;&lt;span style="font-size: 18pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF00FF;"&gt;繪圖方式：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+1.下圖為主要圖形，決定顯示的形狀，透過solvespace輸出2d-section存成.svg檔之結果，
+&lt;img src="./../files/bg9/40323250/shape.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+2. translate為平移圖形、rotate為旋轉。
+&lt;/br&gt;
+cmbr.translate(0, 20)是直接對主要圖形進行平移，之後的基準也會以此為主
+basic1 = cmbr.dup()和cmbr.appendPath(basic1)為一組，複製主要圖形，並能對此進行移動放置，其基準會以主要圖形為出發點
+&lt;/br&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #2F4F4F;"&gt;旋轉：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+因為旋轉是以(0, 0)為旋轉中心，所以如果主要圖形不是在(0, 0)，就會整個跑掉，處理方式是將複製的零件先平移回(0, 0)後，進行旋轉再移到所需要的位置進行放置。
+&lt;/br&gt;
+&lt;img src="./../files/bg9/40323250/position.png"&gt;
+&lt;/br&gt;
 &lt;/br&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323250 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-29T18:14:42+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-04-29:bg9_cdw2/post/40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;h3&gt;40323250 - 期中報告&lt;/h3&gt;
 
 
