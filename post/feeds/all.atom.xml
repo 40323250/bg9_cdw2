@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://40323250.github.io/bg9_cdw2/post/" rel="alternate"></link><link href="http://40323250.github.io/bg9_cdw2/post/feeds/all.atom.xml" rel="self"></link><id>http://40323250.github.io/bg9_cdw2/post/</id><updated>2016-04-29T18:45:16+08:00</updated><entry><title>40323250 - 重編報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323250-zhong-bian-bao-gao.html" rel="alternate"></link><updated>2016-04-29T18:45:16+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-04-29:bg9_cdw2/post/40323250-zhong-bian-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #82FF82;"&gt;繪圖流程：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #82FF82;"&gt;取得檔案：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/br&gt;
-先打開班級倉儲，若為非協同者點及Fork按鈕
+&lt;p&gt;先打開班級倉儲，若為非協同者點及Fork按鈕
 &lt;img src="./../files/bg9/40323250/fork_1.png"&gt;
+&lt;/br&gt;
 &lt;/br&gt;
 之後會跳到複製的cdw2版本，如下圖 :
 &lt;img src="./../files/bg9/40323250/fork_2.png"&gt;
 &lt;/br&gt;
+&lt;/br&gt; &lt;br /&gt;
 之後打開cmd，輸入git clone https網址，載下自己的倉儲，然後打開資料夾，找到自己相對應的組別就可以開是繪圖。
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF8C00;"&gt;繪圖步驟：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF8C00;"&gt;繪圖介紹：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 1.先定義自己的檔案內容，url _prefix 為前綴、scrum1_task40323250為藍圖，make_response則是該組員零件需要被導到別的圖時需要的東西。(scrum1為老師設定的範例，當初不知道，所以都拿過來用了，發現的時候已經來不及了)
 &lt;img src="./../files/bg9/40323250/blueprint.png"&gt;
+&lt;/br&gt;
 &lt;/br&gt;
 2.若上方藍圖設定為scrum1_task40323250，那紫色框框內也要相同，scrum1_50_ABCD所影響的是網址，之後會舉例。
 紅色框框則決定這個圖是否被導入別人的圖。
@@ -23,8 +25,18 @@
 &lt;/br&gt;
 如果沒有，在網頁上則顯示成文字。
 &lt;img src="./../files/bg9/40323250/print_1.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+Example 1 :
 &lt;img src="./../files/bg9/40323250/word.png"&gt;
-&lt;img src="./../files/bg9/40323250/paint_2.png"&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>user1-測試 content 目錄下的 md 檔案轉換</title><link href="http://40323250.github.io/bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html" rel="alternate"></link><updated>2016-04-29T18:14:42+08:00</updated><author><name>kmol</name></author><id>tag:40323250.github.io,2016-04-29:bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</id><summary type="html">&lt;p&gt;網站類別分為 ag1~ag10, bg1~bg10, 與 MISC, 各組員必須透過 Leo Editor, Pelican,  與 Github pull requests 完成.&lt;/p&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+Example 2 :
+&lt;img src="./../files/bg9/40323250/paint_2.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;span style="font-size: 18pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF00FF;"&gt;繪圖方式：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/br&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>user1-測試 content 目錄下的 md 檔案轉換</title><link href="http://40323250.github.io/bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html" rel="alternate"></link><updated>2016-04-29T18:14:42+08:00</updated><author><name>kmol</name></author><id>tag:40323250.github.io,2016-04-29:bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</id><summary type="html">&lt;p&gt;網站類別分為 ag1~ag10, bg1~bg10, 與 MISC, 各組員必須透過 Leo Editor, Pelican,  與 Github pull requests 完成.&lt;/p&gt;
 
 
 &lt;p&gt;CDW2 網頁: &lt;a href="http://2015fallhw.github.io/cdw2/"&gt;http://2015fallhw.github.io/cdw2/&lt;/a&gt;&lt;/p&gt;
