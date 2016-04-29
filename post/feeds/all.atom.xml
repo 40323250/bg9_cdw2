@@ -36,21 +36,47 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;p&gt;&lt;span style="font-size: 18pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF00FF;"&gt;繪圖方式：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-1.下圖為主要圖形，決定顯示的形狀，透過solvespace輸出2d-section存成.svg檔之結果，
+1.下圖為主要圖形，決定顯示的形狀，透過solvespace輸出2d-section存成.svg檔之結果。
 &lt;img src="./../files/bg9/40323250/shape.png"&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 2. translate為平移圖形、rotate為旋轉。
 &lt;/br&gt;
 cmbr.translate(0, 20)是直接對主要圖形進行平移，之後的基準也會以此為主
-basic1 = cmbr.dup()和cmbr.appendPath(basic1)為一組，複製主要圖形，並能對此進行移動放置，其基準會以主要圖形為出發點
-&lt;/br&gt;
+basic1 = cmbr.dup()和cmbr.appendPath(basic1)為一組，複製主要圖形，並能對此進行移動放置，其基準會以主要圖形為出發點。
 &lt;p&gt;&lt;span style="font-size: 14pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #2F4F4F;"&gt;旋轉：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 因為旋轉是以(0, 0)為旋轉中心，所以如果主要圖形不是在(0, 0)，就會整個跑掉，處理方式是將複製的零件先平移回(0, 0)後，進行旋轉再移到所需要的位置進行放置。
 &lt;/br&gt;
 &lt;img src="./../files/bg9/40323250/position.png"&gt;
 &lt;/br&gt;
-&lt;/br&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>user1-測試 content 目錄下的 md 檔案轉換</title><link href="http://40323250.github.io/bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html" rel="alternate"></link><updated>2016-04-29T18:14:42+08:00</updated><author><name>kmol</name></author><id>tag:40323250.github.io,2016-04-29:bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</id><summary type="html">&lt;p&gt;網站類別分為 ag1~ag10, bg1~bg10, 與 MISC, 各組員必須透過 Leo Editor, Pelican,  與 Github pull requests 完成.&lt;/p&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF8C00;"&gt;輸出與導入：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+學會繪圖之後，再來就是將自己的檔案導入組別的畫布裡了。
+&lt;/br&gt;
+&lt;/br&gt;
+如果要把自己的圖導入組別的畫布，除了要把圖形變成純文字以及make_response之外，還要在尾端加上幾行語法，如下圖，框框中的網址要放上導入者的openshift網址(主要的圖檔在他openshift上)
+&lt;img src="./../files/bg9/40323250/make_response.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+那導入者要如何導入組員圖形呢?
+&lt;/br&gt;
+&lt;/br&gt;
+因為使用了make_response功能，所以要將導入者的程式切成三份，利用拼拼圖的方式完成導入。
+&lt;/br&gt;
+這是導入者的第一段程式(用於導入畫布等功能)
+&lt;img src="./../files/bg9/40323250/part1.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+這是導入者的第二段程式(用於尾端，關閉功能)
+&lt;img src="./../files/bg9/40323250/part2.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+這是被導入者的程式
+&lt;img src="./../files/bg9/40323250/part3.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+這是導入者的組合程式，把上面三者結合，而組合圖網址就會是這個
+&lt;img src="./../files/bg9/40323250/part4.png"&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>user1-測試 content 目錄下的 md 檔案轉換</title><link href="http://40323250.github.io/bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html" rel="alternate"></link><updated>2016-04-29T18:14:42+08:00</updated><author><name>kmol</name></author><id>tag:40323250.github.io,2016-04-29:bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</id><summary type="html">&lt;p&gt;網站類別分為 ag1~ag10, bg1~bg10, 與 MISC, 各組員必須透過 Leo Editor, Pelican,  與 Github pull requests 完成.&lt;/p&gt;
 
 
 &lt;p&gt;CDW2 網頁: &lt;a href="http://2015fallhw.github.io/cdw2/"&gt;http://2015fallhw.github.io/cdw2/&lt;/a&gt;&lt;/p&gt;
