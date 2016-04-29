@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://40323250.github.io/bg9_cdw2/post/</loc>
-<lastmod>2016-04-29T21:56:23-00:00</lastmod>
+<lastmod>2016-04-29T22:07:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://40323250.github.io/bg9_cdw2/post/archives.html</loc>
-<lastmod>2016-04-29T21:56:23-00:00</lastmod>
+<lastmod>2016-04-29T22:07:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://40323250.github.io/bg9_cdw2/post/tags.html</loc>
-<lastmod>2016-04-29T21:56:23-00:00</lastmod>
+<lastmod>2016-04-29T22:07:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://40323250.github.io/bg9_cdw2/post/categories.html</loc>
-<lastmod>2016-04-29T21:56:23-00:00</lastmod>
+<lastmod>2016-04-29T22:07:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -95,7 +95,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://40323250.github.io/bg9_cdw2/post/tag/40323233.html</loc>
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/40323214.html</loc>
+<lastmod>2016-04-29T18:14:42+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/scrum1.html</loc>
+<lastmod>2016-04-29T18:45:16+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/task3.html</loc>
 <lastmod>2016-04-29T18:14:42+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -109,35 +123,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://40323250.github.io/bg9_cdw2/post/tag/fan-li.html</loc>
-<lastmod>2016-04-29T18:14:42+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://40323250.github.io/bg9_cdw2/post/tag/scrum5.html</loc>
-<lastmod>2016-04-29T18:14:42+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://40323250.github.io/bg9_cdw2/post/tag/40323230.html</loc>
-<lastmod>2016-04-29T18:14:42+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://40323250.github.io/bg9_cdw2/post/tag/40323250.html</loc>
-<lastmod>2016-04-29T18:45:16+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://40323250.github.io/bg9_cdw2/post/tag/scrum1.html</loc>
 <lastmod>2016-04-29T18:45:16+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -158,14 +144,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://40323250.github.io/bg9_cdw2/post/tag/40323214.html</loc>
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/fan-li.html</loc>
 <lastmod>2016-04-29T18:14:42+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40323250.github.io/bg9_cdw2/post/tag/scrum3.html</loc>
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/40323230.html</loc>
 <lastmod>2016-04-29T18:14:42+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -179,7 +165,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://40323250.github.io/bg9_cdw2/post/tag/task3.html</loc>
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/scrum5.html</loc>
+<lastmod>2016-04-29T18:14:42+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/scrum3.html</loc>
+<lastmod>2016-04-29T18:14:42+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/40323233.html</loc>
 <lastmod>2016-04-29T18:14:42+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
