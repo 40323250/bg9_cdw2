@@ -273,11 +273,10 @@ basic1 = cmbr.dup()和cmbr.appendPath(basic1)為一組，複製主要圖形，�
 &lt;p&gt;2.如果檔案名稱有變更，也要利用cmd刪除，否則也會導致錯誤。&lt;/p&gt;
 &lt;p&gt;3.如果將post檔案全數刪除(檔案錯誤)，再利用其中一個md檔進行轉檔，post的檔案會全部重建。&lt;/p&gt;
 &lt;p&gt;4.wsgi.py 啟動之後，要利用(ctrl) + (pause break)才能關閉，myflaskapp.py內容錯誤也會導致關閉。&lt;/p&gt;
-&lt;/br&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #FF4500;"&gt;以上花了我3個小時，請細心參閱&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: ##FF88C2;"&gt;心得 :&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: ##FFBB66;"&gt;心得 :&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;協同，顧名思義就是大家一起做，那如果遇到不會的同學，就盡量幫助他們學習，所以我就打了這些，網址我貼在FB了，想不想學就是看個人了。&lt;/p&gt;
 &lt;/br&gt;
 &lt;p&gt;自己的分數自己救，60分的要求應該也沒有很高才對&lt;/p&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323233 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323233-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T19:55:10+08:00</updated><author><name>40323233</name></author><id>tag:40323250.github.io,2016-04-30:bg9_cdw2/post/40323233-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323233 - 期中報告&lt;/p&gt;
