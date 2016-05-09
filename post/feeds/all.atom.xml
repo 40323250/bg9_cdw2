@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-05-09T17:43:48+08:00</updated><entry><title>40323231 - 期中報告</title><link href="./40323231-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:43:48+08:00</updated><author><name>40323231</name></author><id>tag:,2016-05-09:./40323231-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323231 - 期中報告&lt;/p&gt;
 
 
@@ -33,6 +34,9 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;h4&gt;這幾個禮拜下來，雖然有時候沒辦法像其他同學一樣一聽就懂，常常都是嘗試了很久或者參考其他同學做的，可是最後完成後總會很開心，很有成就感。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum4"></category><category term="task4"></category><category term="40323231"></category></entry><entry><title>user1-測試 content 目錄下的 md 檔案轉換</title><link href="./user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>kmol</name></author><id>tag:,2016-05-09:./user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</id><summary type="html">&lt;p&gt;網站類別分為 ag1~ag10, bg1~bg10, 與 MISC, 各組員必須透過 Leo Editor, Pelican,  與 Github pull requests 完成.&lt;/p&gt;
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://40323250.github.io/bg9_cdw2/post/" rel="alternate"></link><link href="http://40323250.github.io/bg9_cdw2/post/feeds/all.atom.xml" rel="self"></link><id>http://40323250.github.io/bg9_cdw2/post/</id><updated>2016-05-09T17:18:50+08:00</updated><entry><title>user1-測試 content 目錄下的 md 檔案轉換</title><link href="http://40323250.github.io/bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html" rel="alternate"></link><updated>2016-05-09T17:18:50+08:00</updated><author><name>kmol</name></author><id>tag:40323250.github.io,2016-05-09:bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</id><summary type="html">&lt;p&gt;網站類別分為 ag1~ag10, bg1~bg10, 與 MISC, 各組員必須透過 Leo Editor, Pelican,  與 Github pull requests 完成.&lt;/p&gt;
+>>>>>>> dcbdada5cecb658147106ee888340a399140d65b
 =======
 <feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://40323250.github.io/bg9_cdw2/post/" rel="alternate"></link><link href="http://40323250.github.io/bg9_cdw2/post/feeds/all.atom.xml" rel="self"></link><id>http://40323250.github.io/bg9_cdw2/post/</id><updated>2016-05-08T17:23:17+08:00</updated><entry><title>user1-測試 content 目錄下的 md 檔案轉換</title><link href="http://40323250.github.io/bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html" rel="alternate"></link><updated>2016-05-08T17:23:17+08:00</updated><author><name>kmol</name></author><id>tag:40323250.github.io,2016-05-08:bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</id><summary type="html">&lt;p&gt;網站類別分為 ag1~ag10, bg1~bg10, 與 MISC, 各組員必須透過 Leo Editor, Pelican,  與 Github pull requests 完成.&lt;/p&gt;
 >>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
@@ -96,10 +100,10 @@ Task1 相關: &lt;a href="https://cmsimply-cadlab.rhcloud.com/get_page?heading=2
 &lt;/li&gt;
 &lt;/ol&gt;
 <<<<<<< HEAD
+<<<<<<< HEAD
 &lt;p&gt;祝大家協同愉快!!!&lt;/p&gt;</summary><category term="範例"></category><category term="task1"></category></entry><entry><title>40323250 - 期中報告</title><link href="./40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>40323250</name></author><id>tag:,2016-05-09:./40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;h3&gt;40323250 - 期中報告&lt;/h3&gt;
 =======
-&lt;p&gt;祝大家協同愉快!!!&lt;/p&gt;</summary><category term="範例"></category><category term="task1"></category></entry><entry><title>40323250 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-08T17:23:17+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-05-08:bg9_cdw2/post/40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;h3&gt;40323250 - 期中報告&lt;/h3&gt;
->>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
+&lt;p&gt;祝大家協同愉快!!!&lt;/p&gt;</summary><category term="範例"></category><category term="task1"></category></entry><entry><title>40323250 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:18:50+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-05-09:bg9_cdw2/post/40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;h3&gt;40323250 - 期中報告&lt;/h3&gt;
 
 
 
@@ -167,6 +171,89 @@ Task1 相關: &lt;a href="https://cmsimply-cadlab.rhcloud.com/get_page?heading=2
 &lt;img src="./../files/bg9/code.png"&gt;
 &lt;/br&gt;
 &lt;/br&gt;
+&lt;h3&gt;完成之協同組合圖&lt;/h3&gt;
+&lt;img src="./../files/bg9/bg9.png"&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323230 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323230-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:18:50+08:00</updated><author><name>40323230</name></author><id>tag:40323250.github.io,2016-05-09:bg9_cdw2/post/40323230-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323230 - 期中報告&lt;/p&gt;
+>>>>>>> dcbdada5cecb658147106ee888340a399140d65b
+=======
+&lt;p&gt;祝大家協同愉快!!!&lt;/p&gt;</summary><category term="範例"></category><category term="task1"></category></entry><entry><title>40323250 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-08T17:23:17+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-05-08:bg9_cdw2/post/40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;h3&gt;40323250 - 期中報告&lt;/h3&gt;
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
+
+
+
+&lt;p&gt;協同繪圖&lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9藍圖&lt;/a&gt; 
+&lt;/br&gt;
+個人繪圖&lt;a href="http://2016spring-40323250.rhcloud.com/bg9/scrum1_50_ABCD"&gt;scrum1_50_ABCD&lt;/a&gt;
+&lt;/br&gt;
+&lt;hr size="1" align="center" noshade width="100%" color=red&gt;
+&lt;h2&gt;Gh-pages : &lt;/h2&gt;
+&lt;h3&gt;在 gh-pages 裡的user/組別 目錄下 新增個人leo檔案，並將.md檔路徑放在content，至於紅色框框為檔案名稱，很多人都使用日期導致檔案一直覆寫。&lt;/h3&gt;&lt;/p&gt;
+&lt;h3&gt;和上學期個人md檔相同作法，編輯個人學期心得，並顯示於&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://2015fallhw.github.io/cdw2/post/"&gt;cdw2首頁&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/1.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/2.png"&gt;
+&lt;hr size="1" align="center" noshade width="100%" color=red&gt;&lt;/p&gt;
+&lt;h2&gt;Master : &lt;/h2&gt;
+
+&lt;h3&gt;用於儲存繪圖程式檔案，並將檔案傳上openshift，能夠在遠端直接顯示圖檔，並能夠導入組員零件，已達成協同要求。
+近端要在cdw2目錄下，使用python wsgi.py指令，才能夠在localhost5000顯示個人圖檔。&lt;/h3&gt;
+
+&lt;p&gt;&lt;/br&gt;
+&lt;h3&gt;繪圖須註冊藍圖，包括組別與個人，註冊位置在cdw2目錄下之simpleflask.leo&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/3.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/4.png"&gt;
+&lt;hr size="1" align="center" noshade width="100%" color=red&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h2&gt;繪圖 : &lt;/h2&gt;
+&lt;h3&gt;此部分依照你的需求，若是使用你的藍圖為主畫布，則使用此串原始碼
+若為被導入之零件則刪除(尾端/script也要記得刪)&lt;/h3&gt;
+&lt;img src="./../files/bg9/5.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h3&gt;個人檔案  可以使用多個畫布，但導入圖檔畫布要相同&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../files/bg9/6.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/8.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;
+&lt;h3&gt;會依照導入順序顯示圖形&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/9.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;
+&lt;h3&gt;若傳上openshift後，幾天沒有開啟會導致頁面暫時關閉，只需按下重啟即可&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/10.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/ABCD.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+<<<<<<< HEAD
+&lt;h4&gt;這次的作業從各方面了解許多東西，給自己75分。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum5"></category><category term="task5"></category><category term="40323230"></category></entry><entry><title>40323233 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323233-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:18:50+08:00</updated><author><name>40323233</name></author><id>tag:40323250.github.io,2016-05-09:bg9_cdw2/post/40323233-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323233 - 期中報告&lt;/p&gt;
+
+
+&lt;p&gt;組別畫布 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9畫布&lt;/a&gt; 
+=======
+&lt;h3&gt;協同繪圖(可能)使用Allow-Contorl-Allow-Origin功能&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg9/11.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
+&lt;/br&gt;
+&lt;a href="https://github.com/40323250/STL_png/blob/gh-pages/stl/ABCD.stl"&gt;OnshapeABCD組立stl檔案&lt;/a&gt;
+&lt;/br&gt;
+&lt;h3&gt;A與B的連接部分會有三層，所以有長短軸之分，且一開始就要決定哪一部分為最外層，否則最後接點會重疊&lt;/h3&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323250/STL_png/gh-pages/stl/ABCD.stl"&gt;&lt;/script&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;hr size="1" align="center" noshade width="100%" color=red&gt;
+&lt;h3&gt;04/26 02:10 更新&lt;/h3&gt;
+&lt;/br&gt;
+&lt;h3&gt;協同需要另外設定允許權限&lt;/h3&gt;
+&lt;img src="./../files/bg9/code.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+<<<<<<< HEAD
+&lt;h4&gt;近端必須要在cdw2目錄下，使用python wsgi.py指令，才能夠在localhost5000顯示。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum6"></category><category term="task6"></category><category term="40323233"></category></entry><entry><title>40323250 - 重編報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323250-zhong-bian-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:18:50+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-05-09:bg9_cdw2/post/40323250-zhong-bian-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+=======
 &lt;h3&gt;完成之協同組合圖&lt;/h3&gt;
 <<<<<<< HEAD
 &lt;img src="./../files/bg9/bg9.png"&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323250 - 重編報告</title><link href="./40323250-zhong-bian-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>40323250</name></author><id>tag:,2016-05-09:./40323250-zhong-bian-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
@@ -327,6 +414,7 @@ basic1 = cmbr.dup()和cmbr.appendPath(basic1)為一組，複製主要圖形，�
 &lt;/br&gt;
 &lt;/br&gt;
 <<<<<<< HEAD
+<<<<<<< HEAD
 &lt;h3&gt;自評分數 : 95&lt;/h3&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323233 - 期中報告</title><link href="./40323233-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>40323233</name></author><id>tag:,2016-05-09:./40323233-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323233 - 期中報告&lt;/p&gt;
 
 
@@ -378,6 +466,9 @@ basic1 = cmbr.dup()和cmbr.appendPath(basic1)為一組，複製主要圖形，�
 &lt;h4&gt;做作業時，由於對指令不太熟悉，只能去研究各個參數的作用，或是觀察其他人修改時造成的效果。由於自己不太習慣用筆記，所以親身嘗試、模仿和自行找一些資料學習效果較顯著，只要不要在公共倉儲造成失誤，引來其他組員的麻煩就好。&lt;/h4&gt;
 &lt;/br&gt;
 &lt;h4&gt;這次的作業從各方面了解許多東西，給自己75分。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum5"></category><category term="task5"></category><category term="40323230"></category></entry><entry><title>40323218 - 期中報告</title><link href="./40323218-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>40323218</name></author><id>tag:,2016-05-09:./40323218-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323218 - 期中報告&lt;/p&gt;
+=======
+&lt;h3&gt;自評分數 : 95&lt;/h3&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323218 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323218-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:18:50+08:00</updated><author><name>40323218</name></author><id>tag:40323250.github.io,2016-05-09:bg9_cdw2/post/40323218-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323218 - 期中報告&lt;/p&gt;
+>>>>>>> dcbdada5cecb658147106ee888340a399140d65b
 
 
 &lt;p&gt;組別繪圖 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9畫布&lt;/a&gt; 
@@ -396,8 +487,26 @@ basic1 = cmbr.dup()和cmbr.appendPath(basic1)為一組，複製主要圖形，�
 &lt;h2&gt;個人Onshape圖檔 : &lt;/h2&gt;
 &lt;script src="https://embed.github.com/view/3d/40323250/bg9_cdw2/gh-pages/files/bg9/40323218/40323218.stl"&gt;&lt;/script&gt;
 &lt;h2&gt;操作 :&lt;/h2&gt;
+<<<<<<< HEAD
 &lt;h3&gt;在Master協同繪製圖形，各組內每個人分別繪製圖形中的一部份，上傳至個人的Openshift內，再經由組長統一導入至組裝圖。&lt;/h3&gt;
 &lt;img src="./../files/bg9/40323218/18_3.png"&gt;&lt;/p&gt;</summary><category term="scrum2"></category><category term="task2"></category><category term="40323218"></category></entry><entry><title>40323214 - 期中報告</title><link href="./40323214-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>40323214</name></author><id>tag:,2016-05-09:./40323214-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323214 - 期中報告&lt;/p&gt;
+=======
+&lt;h3&gt;在master協同繪製圖形，各組內每個人分別繪製圖形中的一部份，上傳至個人的Openshift內，再經由組長統一導入至組裝圖。&lt;/h3&gt;
+&lt;h4&gt;我的部分程式繪圖：&lt;/h4&gt;
+&lt;img src="./../files/bg9/40323218/18_5.png"&gt;
+&lt;img src="./../files/bg9/40323218/18_6.png"&gt;
+&lt;img src="./../files/bg9/40323218/18_7.png"&gt;
+&lt;img src="./../files/bg9/40323218/18_8.png"&gt;
+&lt;h4&gt;使文字轉圖形：&lt;/h4&gt;
+&lt;img src="./../files/bg9/40323218/18_4.png"&gt;
+&lt;h4&gt;同意組長Openshift抓取資料：&lt;/h4&gt;
+&lt;img src="./../files/bg9/40323218/18_3.png"&gt;
+&lt;h4&gt;從組員Openshift抓取圖形組裝：&lt;/h4&gt;
+&lt;img src="./../files/bg9/40323218/18_9.png"&gt;
+&lt;h3&gt;在gh-pages編寫心得和流程，說明自己在小組中負責的部分，說明流程和程式的意義。&lt;/h3&gt;
+&lt;img src="./../files/bg9/40323218/18_10.png"&gt;
+&lt;h3&gt;在Onshape上組裝個人的ABCD，理解零件位置和裝配角度，再設計到master程式裡&lt;/h3&gt;&lt;/p&gt;</summary><category term="scrum2"></category><category term="task2"></category><category term="40323218"></category></entry><entry><title>40323214 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323214-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:18:50+08:00</updated><author><name>40323214</name></author><id>tag:40323250.github.io,2016-05-09:bg9_cdw2/post/40323214-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323214 - 期中報告&lt;/p&gt;
+>>>>>>> dcbdada5cecb658147106ee888340a399140d65b
 =======
 &lt;h3&gt;自評分數 : 95&lt;/h3&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323214 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323214-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-08T17:23:17+08:00</updated><author><name>40323214</name></author><id>tag:40323250.github.io,2016-05-08:bg9_cdw2/post/40323214-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323214 - 期中報告&lt;/p&gt;
 >>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
