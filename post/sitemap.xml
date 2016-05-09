@@ -4,90 +4,151 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
+<<<<<<< HEAD
 <loc>./</loc>
 <lastmod>2016-05-09T18:20:34-00:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/</loc>
+<lastmod>2016-05-09T18:13:05-00:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./archives.html</loc>
 <lastmod>2016-05-09T18:20:34-00:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/archives.html</loc>
+<lastmod>2016-05-09T18:13:05-00:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tags.html</loc>
 <lastmod>2016-05-09T18:20:34-00:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tags.html</loc>
+<lastmod>2016-05-09T18:13:05-00:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./categories.html</loc>
 <lastmod>2016-05-09T18:20:34-00:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/categories.html</loc>
+<lastmod>2016-05-09T18:13:05-00:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./pages/about/</loc>
 <lastmod>2016-05-09T17:39:26+08:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/pages/about/</loc>
+<lastmod>2016-05-08T17:23:17+08:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./40323231-qi-zhong-bao-gao.html</loc>
 <lastmod>2016-05-09T17:43:48+08:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</loc>
+<lastmod>2016-05-08T17:23:17+08:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</loc>
 <lastmod>2016-05-09T17:39:26+08:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/40323250-qi-zhong-bao-gao.html</loc>
+<lastmod>2016-05-08T17:23:17+08:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./40323250-qi-zhong-bao-gao.html</loc>
 <lastmod>2016-05-09T17:39:26+08:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/40323250-zhong-bian-bao-gao.html</loc>
+<lastmod>2016-05-08T17:23:17+08:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./40323250-zhong-bian-bao-gao.html</loc>
 <lastmod>2016-05-09T17:39:26+08:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/40323214-qi-zhong-bao-gao.html</loc>
+<lastmod>2016-05-08T17:23:17+08:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./40323233-qi-zhong-bao-gao.html</loc>
 <lastmod>2016-05-09T17:39:26+08:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/40323218-qi-zhong-bao-gao.html</loc>
+<lastmod>2016-05-08T17:23:17+08:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./40323230-qi-zhong-bao-gao.html</loc>
 <lastmod>2016-05-09T17:39:26+08:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/40323230-qi-zhong-bao-gao.html</loc>
+<lastmod>2016-05-08T17:23:17+08:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./40323218-qi-zhong-bao-gao.html</loc>
 <lastmod>2016-05-09T17:39:26+08:00</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/40323233-qi-zhong-bao-gao.html</loc>
+<lastmod>2016-05-08T17:23:17+08:00</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./40323214-qi-zhong-bao-gao.html</loc>
 <lastmod>2016-05-09T17:39:26+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -125,167 +186,286 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tag/scrum2.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/category/ag1.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/40323231.html</loc>
 <lastmod>2016-05-09T17:43:48+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/category/bg9.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/scrum6.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/task3.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/40323250.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/40323250.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/40323214.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/task1.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/task5.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/scrum6.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/task3.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/task6.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/task2.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/40323214.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/scrum3.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/scrum2.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/task1.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/40323233.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/scrum4.html</loc>
 <lastmod>2016-05-09T17:43:48+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/scrum1.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/task4.html</loc>
 <lastmod>2016-05-09T17:43:48+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/40323218.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/40323218.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/fan-li.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/scrum5.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/40323230.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/task6.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/scrum3.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/40323230.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/task5.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./tag/fan-li.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/task2.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./author/40323214.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/tag/scrum5.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./author/40323218.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/author/40323214.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./author/40323230.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/author/40323218.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./author/40323231.html</loc>
 <lastmod>2016-05-09T17:43:48+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/author/40323230.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./author/40323233.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/author/40323233.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./author/40323250.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/author/40323250.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>./author/kmol.html</loc>
 <lastmod>2016-05-09T17:39:26+08:06</lastmod>
+=======
+<loc>http://40323250.github.io/bg9_cdw2/post/author/kmol.html</loc>
+<lastmod>2016-05-08T17:23:17+08:06</lastmod>
+>>>>>>> cb1644c27d8f205cb728cd6b6cc1be7a663bc127
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
