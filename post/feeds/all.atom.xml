@@ -1,25 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://40323250.github.io/bg9_cdw2/post/" rel="alternate"></link><link href="http://40323250.github.io/bg9_cdw2/post/feeds/all.atom.xml" rel="self"></link><id>http://40323250.github.io/bg9_cdw2/post/</id><updated>2016-05-08T16:44:42+08:00</updated><entry><title>40323218 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323218-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-08T16:44:42+08:00</updated><author><name>40323218</name></author><id>tag:40323250.github.io,2016-05-08:bg9_cdw2/post/40323218-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323218 - 期中報告&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-05-09T17:43:48+08:00</updated><entry><title>40323231 - 期中報告</title><link href="./40323231-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:43:48+08:00</updated><author><name>40323231</name></author><id>tag:,2016-05-09:./40323231-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323231 - 期中報告&lt;/p&gt;
 
 
 &lt;p&gt;組別繪圖 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9畫布&lt;/a&gt; 
 &lt;/br&gt;
-個人繪圖 : &lt;a href="http://2016spring-40323230.rhcloud.com/bg9/scrum2_18_2"&gt;scrum2_18_2&lt;/a&gt; 
+個人繪圖 : &lt;a href="http://2016spring-40323231.rhcloud.com/bg9/scrum4_31_2"&gt;scrum4_31_2&lt;/a&gt; 
 &lt;hr&gt;
 &lt;/br&gt;
-&lt;h2&gt;組別圖檔 :&lt;/h2&gt; 
+&lt;h4&gt;組別圖檔 :&lt;/h4&gt; 
 &lt;img src="./../files/bg9/bg9.png"&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;h2&gt;個人圖檔 : &lt;/h2&gt;
-&lt;img src="./../files/bg9/40323218/18_2.png"&gt;
+&lt;h4&gt;個人圖檔 : &lt;/h4&gt;
+&lt;img src="./../files/bg9/31_1.png"&gt;
+&lt;/br&gt;
+&lt;img src="./../files/bg9/31_2.png"&gt;
+&lt;/br&gt;
+&lt;h4&gt;個人Onshape圖檔 : &lt;/h4&gt;
+&lt;script src="https://embed.github.com/view/3d/40323250/bg9_cdw2/gh-pages/files/bg9/40323231.stl"&gt;&lt;/script&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;h2&gt;個人Onshape圖檔 : &lt;/h2&gt;
-&lt;script src="https://embed.github.com/view/3d/40323250/bg9_cdw2/gh-pages/files/bg9/40323218/40323218.stl"&gt;&lt;/script&gt;
-&lt;h2&gt;操作 :&lt;/h2&gt;
-&lt;h3&gt;在Master協同繪製圖形，各組內每個人分別繪製圖形中的一部份，上傳至個人的Openshift內，再經由組長統一導入至組裝圖。&lt;/h3&gt;
-&lt;img src="./../files/bg9/40323218/18_3.png"&gt;&lt;/p&gt;</summary><category term="scrum2"></category><category term="task2"></category><category term="40323218"></category></entry><entry><title>40323250 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-08T16:42:45+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-05-08:bg9_cdw2/post/40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;h3&gt;40323250 - 期中報告&lt;/h3&gt;
+&lt;h3&gt;心得 :&lt;/h3&gt;
+&lt;h4&gt;這次的繪圖軟體有solvespace和Onshape。最一開始用solvespace繪製自己想要的圖，之後轉檔變成文字，文字中有移動、線、圓弧、起始點、順時針或逆時針圓弧...等等。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;轉檔完後的文字放到.lio上，之後設定畫布和名稱和位置等等的設定後，再開啟python wsgi.py，之後就可以在近端看到自己所想要的圖形。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;這次課程也有教到利用FORK建立子道館，而子道館內可以做自己所想要的事情，而這也讓我有辦法嘗試其他之前不敢嘗試的東西，因為之前總是會提心吊膽的怕把共同倉儲的東西推壞掉，現在有了子道館也就不怕了，而且子道館在回傳自己最新的資料會幫你查看是否有衝突，這樣讓我大大的提升信心和膽量。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;這次的課程讓我知道，很多人一起繪製出來的東西，可以利用協統方式匯入大家所畫的東西，而不再像之前一樣，自己埋頭苦幹的完成，或者全組只能一個一個按照順序的畫，導致很多時間不必要的浪費。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;這幾個禮拜下來，雖然有時候沒辦法像其他同學一樣一聽就懂，常常都是嘗試了很久或者參考其他同學做的，可是最後完成後總會很開心，很有成就感。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum4"></category><category term="task4"></category><category term="40323231"></category></entry><entry><title>user1-測試 content 目錄下的 md 檔案轉換</title><link href="./user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>kmol</name></author><id>tag:,2016-05-09:./user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</id><summary type="html">&lt;p&gt;網站類別分為 ag1~ag10, bg1~bg10, 與 MISC, 各組員必須透過 Leo Editor, Pelican,  與 Github pull requests 完成.&lt;/p&gt;
+
+
+&lt;p&gt;CDW2 網頁: &lt;a href="http://2015fallhw.github.io/cdw2/"&gt;http://2015fallhw.github.io/cdw2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;二甲文章類別: ag1~ag10&lt;/p&gt;
+&lt;p&gt;二乙文章類別: bg1~bg10&lt;/p&gt;
+&lt;p&gt;本網頁將 Pelican 設定分為本地端與 gh-pages 端的原因在於 disqus 設定, 本地端無需 disqus 討論功能, 而 gh-pages 端則需要網址全稱才能正確與 disqus 設定連結, 因此所有使用者在近端檢視時, 必須採用近端的按鈕, 而要送到遠端前則必須要用遠端按鈕產生所需要的 post 目錄下的所有資料後, 再提交推送.&lt;/p&gt;
+&lt;p&gt;以下為圖片引用方法, 建議放到 files 目錄下, 並且用相對目錄引用各自放在以用戶名稱命名的子目錄中, 以避免多用戶因採相同檔名而覆寫:&lt;/p&gt;
+&lt;pre class="brush: python;"&gt;
+&lt;img src="./../files/user1/github.png" /&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;得到結果如下:&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/user1/github.png" /&gt;&lt;/p&gt;
+&lt;p&gt;以下資料則從原先的 cdw2 gh-pages 分支中的 index.html 取出:&lt;/p&gt;
+&lt;p&gt;cdw2 所在倉儲: &lt;a href="https://github.com/2015fallhw/cdw2"&gt;https://github.com/2015fallhw/cdw2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以下繪圖由 s2a 的 g100 組所完成, 其中包括 s2b 的 g99 協同繪圖 (藍色零件). &lt;br /&gt;&lt;br /&gt;
+&lt;a href="http://cdw2-ladisai.rhcloud.com/ag100/task2"&gt;http://cdw2-ladisai.rhcloud.com/ag100/task2&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+以下則為4個零件中的第一個弧參數設定比較:
+&lt;ol&gt;
+&lt;li&gt;0(表示 x 軸轉角為0), 1(第一個選擇長度較大的弧), 0(且以右手向內畫弧)&lt;/li&gt;
+&lt;li&gt;0(表示 x 軸轉角為0), 0(第一個選擇長度較小的弧), 0(且以右手向內畫弧)&lt;/li&gt;
+&lt;li&gt;0(表示 x 軸轉角為0), 1(第一個選擇長度較大的弧), 1(且以右手向外畫弧)&lt;/li&gt;
+&lt;li&gt;0(表示 x 軸轉角為0), 0(第一個選擇長度較小的弧), 1(且以右手向外畫弧)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;a href="http://cdw2-ladisai.rhcloud.com/bg99/fourchain"&gt;http://cdw2-ladisai.rhcloud.com/bg99/fourchain&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Task1 相關: &lt;a href="https://cmsimply-cadlab.rhcloud.com/get_page?heading=2016springCD"&gt;https://cmsimply-cadlab.rhcloud.com/get_page?heading=2016springCD&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+鍊條零件製造流程:
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/h8j5-dC6_x8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+組立流程:
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZwTryvdmzD4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;如何協同編輯 CDW2 gh-pages 網頁:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;首先必須要認清的是 gh-pages 網頁位於 &lt;a href="https://github.com/2015fallhw/cdw2"&gt;https://github.com/2015fallhw/cdw2&lt;/a&gt; 倉儲中的 gh-pages 分支, 與 master 分支中的資料不可弄混.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CDW2 倉儲中的 master 分支中的資料為 Python3 wsgi 應用程式, 各組必須協同完成任務之後, 將 master 分支中的程式以 git remote add 的方式推送到各組的 OpenShift Python3 應用程式, 然後再將各組的應用程式連結與任務操作過程資料回報到 gh-pages 網頁.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;gh-pages 分支中各組分別使用 users 目錄下的 .md 檔, 以本地端按鈕產生本地端檢查用的網頁資料, 若沒有錯誤, 再提交推送到遠端, 若倉儲回應需要 pull 回資料, 一定要使用 git pull origin gh-pages 的方式, 明確取回 gh-pages 的分支合併, 若 content 目錄中的檔案能夠自動合併, 即可再用近端 Pelican 按鈕建立網頁資料, 檢查無誤後, 記得要再用遠端 Pelican 專用按鈕建立網頁後提交推送.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;另外建議各組員在 content 目錄下建立文章標題時, 可以在標題最前方加上學號, 因為目前的設定會使用各 .md  檔案中的標題, 以拼音的方式建立對應的 html 網頁檔案, 假如有兩份 .md 檔案擁有相同的 Title, 則 Pelican 將會報錯, 一直到使用者修正後才能再正確進行 .md -&amp;gt; .html 檔案轉換的工作.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;採用 pull requests 尋求 gh-pages 合併時, 因為網頁中的許多檔案都將產生衝突, 因此通常無法直接在 Github 中直接合併, 各組組長必須要根據系統的提示, 將資料拉到本地端後, 再視實際狀況處理 .md 的衝突 (千萬不要以手動處理 .html 檔案的衝突), 然後再用本地端按鈕建立網頁, 檢視無誤後再用遠端按鈕建立網頁資料後, 執行提交推送流程, 假如各組組長在處理衝突過程, 已經有其他組對遠端的倉儲版本進行更版, 則前述拉回處理衝突與合併的動作, 就必須再重複一遍.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;祝大家協同愉快!!!&lt;/p&gt;</summary><category term="範例"></category><category term="task1"></category></entry><entry><title>40323250 - 期中報告</title><link href="./40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>40323250</name></author><id>tag:,2016-05-09:./40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;h3&gt;40323250 - 期中報告&lt;/h3&gt;
 
 
 
@@ -88,117 +160,7 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;h3&gt;完成之協同組合圖&lt;/h3&gt;
-&lt;img src="./../files/bg9/bg9.png"&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>user1-測試 content 目錄下的 md 檔案轉換</title><link href="http://40323250.github.io/bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html" rel="alternate"></link><updated>2016-05-08T16:42:45+08:00</updated><author><name>kmol</name></author><id>tag:40323250.github.io,2016-05-08:bg9_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</id><summary type="html">&lt;p&gt;網站類別分為 ag1~ag10, bg1~bg10, 與 MISC, 各組員必須透過 Leo Editor, Pelican,  與 Github pull requests 完成.&lt;/p&gt;
-
-
-&lt;p&gt;CDW2 網頁: &lt;a href="http://2015fallhw.github.io/cdw2/"&gt;http://2015fallhw.github.io/cdw2/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;二甲文章類別: ag1~ag10&lt;/p&gt;
-&lt;p&gt;二乙文章類別: bg1~bg10&lt;/p&gt;
-&lt;p&gt;本網頁將 Pelican 設定分為本地端與 gh-pages 端的原因在於 disqus 設定, 本地端無需 disqus 討論功能, 而 gh-pages 端則需要網址全稱才能正確與 disqus 設定連結, 因此所有使用者在近端檢視時, 必須採用近端的按鈕, 而要送到遠端前則必須要用遠端按鈕產生所需要的 post 目錄下的所有資料後, 再提交推送.&lt;/p&gt;
-&lt;p&gt;以下為圖片引用方法, 建議放到 files 目錄下, 並且用相對目錄引用各自放在以用戶名稱命名的子目錄中, 以避免多用戶因採相同檔名而覆寫:&lt;/p&gt;
-&lt;pre class="brush: python;"&gt;
-&lt;img src="./../files/user1/github.png" /&gt;
-&lt;/pre&gt;
-
-&lt;p&gt;得到結果如下:&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../files/user1/github.png" /&gt;&lt;/p&gt;
-&lt;p&gt;以下資料則從原先的 cdw2 gh-pages 分支中的 index.html 取出:&lt;/p&gt;
-&lt;p&gt;cdw2 所在倉儲: &lt;a href="https://github.com/2015fallhw/cdw2"&gt;https://github.com/2015fallhw/cdw2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;以下繪圖由 s2a 的 g100 組所完成, 其中包括 s2b 的 g99 協同繪圖 (藍色零件). &lt;br /&gt;&lt;br /&gt;
-&lt;a href="http://cdw2-ladisai.rhcloud.com/ag100/task2"&gt;http://cdw2-ladisai.rhcloud.com/ag100/task2&lt;/a&gt;
-&lt;br /&gt;&lt;br /&gt;
-以下則為4個零件中的第一個弧參數設定比較:
-&lt;ol&gt;
-&lt;li&gt;0(表示 x 軸轉角為0), 1(第一個選擇長度較大的弧), 0(且以右手向內畫弧)&lt;/li&gt;
-&lt;li&gt;0(表示 x 軸轉角為0), 0(第一個選擇長度較小的弧), 0(且以右手向內畫弧)&lt;/li&gt;
-&lt;li&gt;0(表示 x 軸轉角為0), 1(第一個選擇長度較大的弧), 1(且以右手向外畫弧)&lt;/li&gt;
-&lt;li&gt;0(表示 x 軸轉角為0), 0(第一個選擇長度較小的弧), 1(且以右手向外畫弧)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;a href="http://cdw2-ladisai.rhcloud.com/bg99/fourchain"&gt;http://cdw2-ladisai.rhcloud.com/bg99/fourchain&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-Task1 相關: &lt;a href="https://cmsimply-cadlab.rhcloud.com/get_page?heading=2016springCD"&gt;https://cmsimply-cadlab.rhcloud.com/get_page?heading=2016springCD&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-鍊條零件製造流程:
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/h8j5-dC6_x8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-組立流程:
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZwTryvdmzD4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;如何協同編輯 CDW2 gh-pages 網頁:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;首先必須要認清的是 gh-pages 網頁位於 &lt;a href="https://github.com/2015fallhw/cdw2"&gt;https://github.com/2015fallhw/cdw2&lt;/a&gt; 倉儲中的 gh-pages 分支, 與 master 分支中的資料不可弄混.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;CDW2 倉儲中的 master 分支中的資料為 Python3 wsgi 應用程式, 各組必須協同完成任務之後, 將 master 分支中的程式以 git remote add 的方式推送到各組的 OpenShift Python3 應用程式, 然後再將各組的應用程式連結與任務操作過程資料回報到 gh-pages 網頁.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;gh-pages 分支中各組分別使用 users 目錄下的 .md 檔, 以本地端按鈕產生本地端檢查用的網頁資料, 若沒有錯誤, 再提交推送到遠端, 若倉儲回應需要 pull 回資料, 一定要使用 git pull origin gh-pages 的方式, 明確取回 gh-pages 的分支合併, 若 content 目錄中的檔案能夠自動合併, 即可再用近端 Pelican 按鈕建立網頁資料, 檢查無誤後, 記得要再用遠端 Pelican 專用按鈕建立網頁後提交推送.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;另外建議各組員在 content 目錄下建立文章標題時, 可以在標題最前方加上學號, 因為目前的設定會使用各 .md  檔案中的標題, 以拼音的方式建立對應的 html 網頁檔案, 假如有兩份 .md 檔案擁有相同的 Title, 則 Pelican 將會報錯, 一直到使用者修正後才能再正確進行 .md -&amp;gt; .html 檔案轉換的工作.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;採用 pull requests 尋求 gh-pages 合併時, 因為網頁中的許多檔案都將產生衝突, 因此通常無法直接在 Github 中直接合併, 各組組長必須要根據系統的提示, 將資料拉到本地端後, 再視實際狀況處理 .md 的衝突 (千萬不要以手動處理 .html 檔案的衝突), 然後再用本地端按鈕建立網頁, 檢視無誤後再用遠端按鈕建立網頁資料後, 執行提交推送流程, 假如各組組長在處理衝突過程, 已經有其他組對遠端的倉儲版本進行更版, 則前述拉回處理衝突與合併的動作, 就必須再重複一遍.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;祝大家協同愉快!!!&lt;/p&gt;</summary><category term="範例"></category><category term="task1"></category></entry><entry><title>40323230 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323230-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-08T16:42:45+08:00</updated><author><name>40323230</name></author><id>tag:40323250.github.io,2016-05-08:bg9_cdw2/post/40323230-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323230 - 期中報告&lt;/p&gt;
-
-
-&lt;p&gt;組別繪圖 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9畫布&lt;/a&gt; 
-&lt;/br&gt;
-個人繪圖 : &lt;a href="http://2016spring-40323230.rhcloud.com/bg9/scrum5_30_2"&gt;scrum5_30_2&lt;/a&gt; 
-&lt;hr&gt;
-&lt;/br&gt;
-&lt;h4&gt;組別圖檔 :&lt;/h4&gt; 
-&lt;img src="./../files/bg9/bg9.png"&gt;
-&lt;/br&gt;
-&lt;/br&gt;
-&lt;h4&gt;個人圖檔 : &lt;/h4&gt;
-&lt;img src="./../files/bg9/30_2.png"&gt;
-&lt;/br&gt;
-&lt;h4&gt;個人Onshape圖檔 : &lt;/h4&gt;
-&lt;img src="./../files/bg9/30_3.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/br&gt;
-&lt;hr&gt;
-&lt;h3&gt;心得 :&lt;/h3&gt;
-&lt;h4&gt;這次作業依靠Github和Onshape的協同功能，完成在雲端下指令繪製2D和3D圖形的任務。&lt;/h4&gt;
-&lt;/br&gt;
-&lt;h4&gt;剛開始雖然有些不清楚，但是在研究和比較彼此系統的差異後能夠快速了解自己該做些甚麼、如何分擔自己組內的工作，較大家各別工作時更有效率，而非一頭霧水，拖累其他人的進度。&lt;/h4&gt;
-&lt;/br&gt;
-&lt;h4&gt;而這次在多重確認機制下，修改檔案犯的錯也能先在自己的倉儲察覺到，預先提防覆蓋其他人的成品，雖然這個機制現階段仍有些不周，但是對於組員之間的配合以及防範嚴重的錯誤上還是有不錯的成效。&lt;/h4&gt;
-&lt;/br&gt;
-&lt;h4&gt;做作業時，由於對指令不太熟悉，只能去研究各個參數的作用，或是觀察其他人修改時造成的效果。由於自己不太習慣用筆記，所以親身嘗試、模仿和自行找一些資料學習效果較顯著，只要不要在公共倉儲造成失誤，引來其他組員的麻煩就好。&lt;/h4&gt;
-&lt;/br&gt;
-&lt;h4&gt;這次的作業從各方面了解許多東西，給自己75分。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum5"></category><category term="task5"></category><category term="40323230"></category></entry><entry><title>40323233 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323233-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-08T16:42:45+08:00</updated><author><name>40323233</name></author><id>tag:40323250.github.io,2016-05-08:bg9_cdw2/post/40323233-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323233 - 期中報告&lt;/p&gt;
-
-
-&lt;p&gt;組別畫布 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9畫布&lt;/a&gt; 
-&lt;/br&gt;
-個人畫布 : &lt;a href="http://2016spring-w2651363.rhcloud.com/bg9/scrum6_33_2"&gt;scrum6_33_2&lt;/a&gt; 
-&lt;hr&gt;
-&lt;/br&gt;
-&lt;h4&gt;組別圖檔 :&lt;/h4&gt; 
-&lt;img src="./../files/bg9/bg9.png"&gt;
-&lt;/br&gt;
-&lt;/br&gt;
-&lt;h4&gt;個人圖檔 : &lt;/h4&gt;
-&lt;img src="./../files/bg9/33_2.png"&gt;
-&lt;/br&gt;
-&lt;/br&gt;
-&lt;h4&gt;這次的作業比較複雜，需要與組員一同去完成繪製鍊條，老師這次出的作業是為了讓我們理解如何更容易和別人協同，也可以透過這次機會，學會該如何在團隊裡分配任務，並和組員溝通與表達&lt;/h4&gt;
-&lt;/br&gt;
-&lt;/br&gt;
-&lt;h4&gt;Master主要是用於儲存繪圖程式檔案，
-將檔案傳上openshift，就可以在遠端顯示圖檔，並能夠導入組員的零件。&lt;/h4&gt;
-&lt;/br&gt;
-&lt;h4&gt;近端必須要在cdw2目錄下，使用python wsgi.py指令，才能夠在localhost5000顯示。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum6"></category><category term="task6"></category><category term="40323233"></category></entry><entry><title>40323250 - 重編報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323250-zhong-bian-bao-gao.html" rel="alternate"></link><updated>2016-05-08T16:42:45+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-05-08:bg9_cdw2/post/40323250-zhong-bian-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;img src="./../files/bg9/bg9.png"&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323250 - 重編報告</title><link href="./40323250-zhong-bian-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>40323250</name></author><id>tag:,2016-05-09:./40323250-zhong-bian-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #82FF82;"&gt;取得檔案：&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -352,7 +314,77 @@ basic1 = cmbr.dup()和cmbr.appendPath(basic1)為一組，複製主要圖形，�
 &lt;p&gt;自己的分數自己救，60分的要求應該也沒有很高才對&lt;/p&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;h3&gt;自評分數 : 95&lt;/h3&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323214 - 期中報告</title><link href="http://40323250.github.io/bg9_cdw2/post/40323214-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-08T16:42:45+08:00</updated><author><name>40323214</name></author><id>tag:40323250.github.io,2016-05-08:bg9_cdw2/post/40323214-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323214 - 期中報告&lt;/p&gt;
+&lt;h3&gt;自評分數 : 95&lt;/h3&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry><entry><title>40323233 - 期中報告</title><link href="./40323233-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>40323233</name></author><id>tag:,2016-05-09:./40323233-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323233 - 期中報告&lt;/p&gt;
+
+
+&lt;p&gt;組別畫布 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9畫布&lt;/a&gt; 
+&lt;/br&gt;
+個人畫布 : &lt;a href="http://2016spring-w2651363.rhcloud.com/bg9/scrum6_33_2"&gt;scrum6_33_2&lt;/a&gt; 
+&lt;hr&gt;
+&lt;/br&gt;
+&lt;h4&gt;組別圖檔 :&lt;/h4&gt; 
+&lt;img src="./../files/bg9/bg9.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;個人圖檔 : &lt;/h4&gt;
+&lt;img src="./../files/bg9/33_2.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;這次的作業比較複雜，需要與組員一同去完成繪製鍊條，老師這次出的作業是為了讓我們理解如何更容易和別人協同，也可以透過這次機會，學會該如何在團隊裡分配任務，並和組員溝通與表達&lt;/h4&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;Master主要是用於儲存繪圖程式檔案，
+將檔案傳上openshift，就可以在遠端顯示圖檔，並能夠導入組員的零件。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;近端必須要在cdw2目錄下，使用python wsgi.py指令，才能夠在localhost5000顯示。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum6"></category><category term="task6"></category><category term="40323233"></category></entry><entry><title>40323230 - 期中報告</title><link href="./40323230-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>40323230</name></author><id>tag:,2016-05-09:./40323230-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323230 - 期中報告&lt;/p&gt;
+
+
+&lt;p&gt;組別繪圖 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9畫布&lt;/a&gt; 
+&lt;/br&gt;
+個人繪圖 : &lt;a href="http://2016spring-40323230.rhcloud.com/bg9/scrum5_30_2"&gt;scrum5_30_2&lt;/a&gt; 
+&lt;hr&gt;
+&lt;/br&gt;
+&lt;h4&gt;組別圖檔 :&lt;/h4&gt; 
+&lt;img src="./../files/bg9/bg9.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h4&gt;個人圖檔 : &lt;/h4&gt;
+&lt;img src="./../files/bg9/30_2.png"&gt;
+&lt;/br&gt;
+&lt;h4&gt;個人Onshape圖檔 : &lt;/h4&gt;
+&lt;img src="./../files/bg9/30_3.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;
+&lt;hr&gt;
+&lt;h3&gt;心得 :&lt;/h3&gt;
+&lt;h4&gt;這次作業依靠Github和Onshape的協同功能，完成在雲端下指令繪製2D和3D圖形的任務。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;剛開始雖然有些不清楚，但是在研究和比較彼此系統的差異後能夠快速了解自己該做些甚麼、如何分擔自己組內的工作，較大家各別工作時更有效率，而非一頭霧水，拖累其他人的進度。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;而這次在多重確認機制下，修改檔案犯的錯也能先在自己的倉儲察覺到，預先提防覆蓋其他人的成品，雖然這個機制現階段仍有些不周，但是對於組員之間的配合以及防範嚴重的錯誤上還是有不錯的成效。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;做作業時，由於對指令不太熟悉，只能去研究各個參數的作用，或是觀察其他人修改時造成的效果。由於自己不太習慣用筆記，所以親身嘗試、模仿和自行找一些資料學習效果較顯著，只要不要在公共倉儲造成失誤，引來其他組員的麻煩就好。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;這次的作業從各方面了解許多東西，給自己75分。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum5"></category><category term="task5"></category><category term="40323230"></category></entry><entry><title>40323218 - 期中報告</title><link href="./40323218-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>40323218</name></author><id>tag:,2016-05-09:./40323218-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323218 - 期中報告&lt;/p&gt;
+
+
+&lt;p&gt;組別繪圖 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9畫布&lt;/a&gt; 
+&lt;/br&gt;
+個人繪圖 : &lt;a href="http://2016spring-40323230.rhcloud.com/bg9/scrum2_18_2"&gt;scrum2_18_2&lt;/a&gt; 
+&lt;hr&gt;
+&lt;/br&gt;
+&lt;h2&gt;組別圖檔 :&lt;/h2&gt; 
+&lt;img src="./../files/bg9/bg9.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h2&gt;個人圖檔 : &lt;/h2&gt;
+&lt;img src="./../files/bg9/40323218/18_2.png"&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;h2&gt;個人Onshape圖檔 : &lt;/h2&gt;
+&lt;script src="https://embed.github.com/view/3d/40323250/bg9_cdw2/gh-pages/files/bg9/40323218/40323218.stl"&gt;&lt;/script&gt;
+&lt;h2&gt;操作 :&lt;/h2&gt;
+&lt;h3&gt;在Master協同繪製圖形，各組內每個人分別繪製圖形中的一部份，上傳至個人的Openshift內，再經由組長統一導入至組裝圖。&lt;/h3&gt;
+&lt;img src="./../files/bg9/40323218/18_3.png"&gt;&lt;/p&gt;</summary><category term="scrum2"></category><category term="task2"></category><category term="40323218"></category></entry><entry><title>40323214 - 期中報告</title><link href="./40323214-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T17:39:26+08:00</updated><author><name>40323214</name></author><id>tag:,2016-05-09:./40323214-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40323214 - 期中報告&lt;/p&gt;
 
 
 &lt;p&gt;組別繪圖 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2_homework"&gt;bg9畫布&lt;/a&gt; 
